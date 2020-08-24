@@ -47,6 +47,7 @@ About US
    :maxdepth: 2
    
    Teachers/Luo.rst
+   Teachers/Xia.rst
 
 
 
