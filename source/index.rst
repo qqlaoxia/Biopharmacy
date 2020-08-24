@@ -30,13 +30,15 @@ Welcome to Biopharmacy's documentation!
    Chapters/10/index
    Chapters/11/index
 
+
 Extracurricular learning
 =============================
-
 .. toctree::
    :maxdepth: 2
    
-   Extracurricular/index
+   Extracurricular/1.1
+   Extracurricular/1.2
+
    
 
 

@@ -1,6 +1,9 @@
+Extracurricular learning
+=============================
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :numbered:
    
-   1.1.rst
-   1.2.rst
+   1.1
+   1.2
