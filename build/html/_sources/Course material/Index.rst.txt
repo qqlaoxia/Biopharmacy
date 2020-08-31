@@ -40,3 +40,8 @@ Biopharmaceutical Technology Course Syllabus
 .. image:: Syllabus/13.png
    :align: center
 
+Course schedule for this semester
+=========================================
+
+.. image:: 2017.png
+   :align: center
