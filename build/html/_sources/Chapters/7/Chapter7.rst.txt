@@ -1,0 +1,15 @@
+Chapter 7 Antibiotics drugs==========================================================================
+
+
+Basic teaching contents-----------------------------------
+
+1.	The definition and nomenclature of antibiotics, the critetia of being medical antibiotics; the classification and applications of antibiotics; the production methods of antibiotics, the biosynthetic process of antibiotics, and the characteristics of antibiotic fermentation production;2.	The structural characteristics, physical and chemical properties, and functional mechanism of ¦Â-lactam antibiotics; the fermentation technology and process of penicillin, and the extraction and purification of penicillin;3.	Breeding and preservation of cephalosporin C strains, optimization of fermentation process, separation and purification process of cephalosporin C; classification of aminoglycoside antibiotics; streptomycin production strains, fermentation technology and process of streptomycin, extraction and purification of streptomycin.
+Key points----------------------
+
+1.	The production methods of antibiotics, the technological process of producing antibiotics by biosynthesis, and the characteristics of antibiotics fermentation production;2.	The fermentation technology and process of penicillin, the extraction and purification of penicillin, and the factors affecting the yield of penicillin fermentation;3.	The biosynthesis of cephalosporin C, the breeding and preservation of production strains, the optimization of the fermentation process, and the separation and purification process of cephalosporin C.4.	The fermentation technology and process of streptomycin, and the extraction and purification of streptomycin.
+Difficult points----------------------------
+
+1.	Methods for determining the biological potency of antibiotics;2.	The structural characteristics of ¦Â-lactam antibiotics;3.	The biosynthetic process of penicillin;4.	The biosynthesis of cephalosporin C;5.	The chemical structure characteristics and physicochemical properties of streptomycin, and the biosynthetic process of streptomycin.
+Main learning requirements--------------------------------------
+
+1.	Be familiar with various classification methods of antibiotics;2.	Be familiar with the production process, quality control and potency determination methods of antibiotics;3.	Be familiar with the production strains, fermentation technology, operation key points and extraction and purification methods of penicillin, cephalosporin C, streptomycin and other antibiotics;4.	Master the principle of extracting penicillin by solvent extraction;5.	Master the principle of extracting streptomycin by ion exchange resin method;6.	Master the principle of extracting cephalosporin C by precipitation method and ion exchange resin method.

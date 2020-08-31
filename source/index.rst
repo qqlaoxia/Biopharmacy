@@ -4,37 +4,44 @@
    contain the root `toctree` directive.
 
 Welcome to Biopharmacy's documentation!
-=======================================
+===================================================
 
-本课程是一门涉及生物学、医学、生物技术、发酵工程、工程学和药学等学科基本原理的综合性应用学科, 是生物工程专业一门阐述生物制药工业生产基本规律的选修专业课程。通过该课程的学习，使学生了解制药工业的特点，掌握工艺研究的指导思想，了解制药工业的发展方向。学生通过对各类生物药物典型实例的学习，提高其应用所学专业知识的理论和技能独立分析问题和解决问题的能力，有利于促进我国生物制药业的发展。
+.. raw:: html
 
-课程教学以课堂教学、课堂作业、综合讨论、网络以及授课教师的科研项目与积累等共同实施。本课程以生物制药工艺为主线，重点讲授甾体激素、维生素和抗生素等药物生产工艺原理和应用实例。通过授课与讨论重点培养学生的系统分析能力、过程设计能力和创新能力。本课程的教学将充分利用数字化技术、网络技术制作丰富多彩的教学和辅导材料，调动学习积极性，提高教学效率。本课程注重教与学过程，通过课堂作业、综合讨论等多种形式进行综合考核。
+    <p style="text-align:justify; text-justify:inter-ideograph;">Biopharmaceutical Technology is an important specialized elective course (public elective module) for bioengineering and related majors. With Biochemistry, Microbiology, Molecular biology, Enzyme engineering, Genetic engineering, Bioreaction engineering, Fermentation engineering, Bioseparation engineering as the prerequisite courses, this course is a highly integrated and comprehensive application of the basic principles of many disciplines including Biology, Biotechnology, Chemistry, Engineering and Pharmacy. The course mainly elaborates the basic laws and typical cases of biopharmaceutical production processes. Therefore, Biopharmaceutical Technology course roles as a bridge from theory to practice, and from basis to profession, which is an important link in the industrialization of biotechnology, and plays an important role in the cultivation of the professional quality and engineering ability of bioengineering major students.</p>
+
+
+.. raw:: html
+
+    <p style="text-align:justify; text-justify:inter-ideograph;">Biopharmaceutical Technology course focuses on biopharmaceutical process cases of various drugs, introducing the properties and functions of drugs, the principles and characteristics of drug production, and the design and optimization of the processes. This course belongs to engineering science with emphasis on the combination of theory and practice, the cultivation of engineering thinking and design ability, and the training of comprehensive abilities such as analysis and problem solving. Through the study of this course, students can use the guiding ideology and basic methods of technological research, and have a certain ability to solve practical engineering problems. The combination of this course and the follow-up bioengineering course design and graduation thesis and design will complete the comprehensive basic training of engineers.</p>
+
+
 
    
-- 授课团队成员：**骆健美老师、屠琳娜老师、夏梦雷老师、郭艳老师、徐雪天老师**      
-- 负责网站运维：**杨帆、王頔**
+- Members of the teaching team : **Luo Jianmei, Tu Linna, Xia Menglei, Guo Yan, Xu Xuetian**      
+- website operation and maintenance: **Yang Fan, Wang Di**
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
    :caption: Contents:
    
-   Chapters/1/index
-   Chapters/2/index
-   Chapters/3/index
-   Chapters/4/index
-   Chapters/5/index
-   Chapters/6/index
-   Chapters/7/index
-   Chapters/8/index
-   Chapters/9/index
-   Chapters/10/index
-   Chapters/11/index
+   Chapters/1/Chapter1
+   Chapters/2/Chapter2
+   Chapters/3/Chapter3
+   Chapters/4/Chapter4
+   Chapters/5/Chapter5
+   Chapters/6/Chapter6
+   Chapters/7/Chapter7
+   Chapters/8/Chapter8
+
 
 
 Extracurricular learning
 =============================
 .. toctree::
    :maxdepth: 2
+   :numbered:
    
    Extracurricular/1.1
    Extracurricular/1.2
@@ -47,9 +54,21 @@ About US
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
    
    Teachers/Luo.rst
+   Teachers/Tu.rst
    Teachers/Xia.rst
+
+Course material
+================================
+
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+   
+   Course material/Index.rst
+
 
 
 
